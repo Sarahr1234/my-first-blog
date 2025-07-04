@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 *.pyc
 *~
@@ -30,3 +31,4 @@ $RECYCLE.BIN/
 .vscode/
 .history/
 *.code-workspace
+=======
